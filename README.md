@@ -2,8 +2,7 @@
 
 An interactive Excel dashboard analyzing sales, profitability, and transaction trends for **Adventure Works**, built using PivotTables, slicers, and dynamic formulas to surface time-based, geographic, and seasonal drivers of revenue and profit — all without leaving Excel.
 
-![Dashboard Preview](<img width="1361" height="768" alt="Dashboard_Preview" src="https://github.com/user-attachments/assets/54446b91-566d-4a76-a642-7e6ecf00ae71" />
-)
+<img width="1361" height="768" alt="Dashboard_Preview" src="https://github.com/user-attachments/assets/54446b91-566d-4a76-a642-7e6ecf00ae71" />
 
 ---
 
